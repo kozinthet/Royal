@@ -1,0 +1,9 @@
+#abt_mm{margin:0 0 15px 15px;}
+.h_about{font-family:Lucida Sans Unicode;font-size:19px;color:#1c83b8;}
+.p_about{font-family:Lucida Sans Unicode;font-size:13px;color:#777676;margin:15px 0 15px 0;}
+ul.list_about{}
+ul.list_about li{list-style-type:none;}
+ul.list_about li p{font-family:Lucida Sans Unicode;font-size:13px;color:#777676;}
+.p_about_1{font-family:Lucida Sans Unicode;font-size:13px;color:#1c83b8;}
+.currency{margin:0 0 10px 0;}
+#line{background:url("../images/line.png");width:700px;height:1px;margin-bottom:10px;}
