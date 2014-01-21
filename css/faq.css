@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+#faq{width:700px;margin:0 0 15px 15px;}
+#faq_con{margin:15px 0 0 0;}
+#que{width:700px;background:gray;height:auto;}
+#ans{margin:10px 0 15px 0;}
+#que .left,#ans .left{width:15px;float:left;margin:2px 15px 0 0;}
+#que .left{background:#0ca68a;}
+#ans .left{background:#777777;}
+#que .right,#ans .right{width:670px;float:left;height:auto;}
+#que .left p,#ans .left p{font-family:Lucida Sans Unicode;font-size:9px;color:#ffffff;text-align:center;}
+#que .right p,#ans .right p{font-family:Lucida Sans Unicode;font-size:13px;text-align:left;line-height:18px;}
+#que .right p{color:#0ca68a;}
+#ans .right p{color:#777777;}
+

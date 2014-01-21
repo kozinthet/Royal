@@ -7,6 +7,8 @@
 <link rel='stylesheet' type='text/css' href='css/home.css' />
 <link rel='stylesheet' type='text/css' href='css/about.css' />
 <link rel='stylesheet' type='text/css' href='css/guide.css' />
+<link rel='stylesheet' type='text/css' href='css/faq.css' />
+<link rel='stylesheet' type='text/css' href='css/sitemap.css' />
 </head>
 <body>
 	<div id="body_wrapper">

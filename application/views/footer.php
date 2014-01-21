@@ -2,9 +2,9 @@
 	<div id="help">
 		<p class="f_header">Support & Help</p>
 			<ul>
-				<li><a href="#">Sitemap</a></li>
-				<li><a href="#">FAQ</a></li>
-				<li><a href="#">Term & Conditions</a></li>
+				<li><a href="<?php echo site_url()."/welcome/sitemap/"?>">Sitemap</a></li>
+				<li><a href="<?php echo site_url()."/welcome/faq/"?>">FAQ</a></li>
+				<li><a href="<?php echo site_url()."/welcome/term/"?>">Term & Conditions</a></li>
 			</ul>
 	</div>
 	<div id="newsletter">

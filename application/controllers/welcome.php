@@ -53,6 +53,13 @@ class Welcome extends CI_Controller {
 		$this->load->vars($data);
 		$this->load->view('template');
 	}
+	public function faq()
+	{
+		$data['navi'] = "FAQs";
+		$data['main'] = "faq";
+		$this->load->vars($data);
+		$this->load->view('template');
+	}
 }
 
 /* End of file welcome.php */
